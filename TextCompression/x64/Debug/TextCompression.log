@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\omarh\Google Drive (omarhatem2002@aucegypt.edu)\Fall 2021\CSCE\Project\TextCompression\Source.cpp(88,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarh\Google Drive (omarhatem2002@aucegypt.edu)\Fall 2021\CSCE\Project\TextCompression\Source.cpp(109,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarh\Google Drive (omarhatem2002@aucegypt.edu)\Fall 2021\CSCE\Project\TextCompression\Source.cpp(56,7): warning C4101: 'compress': unreferenced local variable
+C:\Users\omarh\Google Drive (omarhatem2002@aucegypt.edu)\Fall 2021\CSCE\Project\TextCompression\Source.cpp(200,8): warning C4101: 'x': unreferenced local variable
+  TextCompression.vcxproj -> C:\Users\omarh\Google Drive (omarhatem2002@aucegypt.edu)\Fall 2021\CSCE\Project\TextCompression\x64\Debug\TextCompression.exe
